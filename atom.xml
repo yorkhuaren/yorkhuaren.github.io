@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yorkcn.net/"/>
-  <updated>2016-11-16T10:07:03.000Z</updated>
+  <updated>2016-11-16T16:10:36.000Z</updated>
   <id>http://www.yorkcn.net/</id>
   
   <author>
@@ -20,7 +20,7 @@
     <link href="http://www.yorkcn.net/top-10-singers/"/>
     <id>http://www.yorkcn.net/top-10-singers/</id>
     <published>2016-10-25T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:10:36.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/activities/singers.jpg" alt=""></p>
 <p>如果你热爱唱歌，如果你想有一个机会一展自己的嗓音，现在在约克有这样一个舞台需要你的参与！不要犹豫，快来报名参加约克十佳歌手大赛吧！</p>
@@ -41,7 +41,7 @@
     
     </summary>
     
-      <category term="activities" scheme="http://www.yorkcn.net/categories/activities/"/>
+      <category term="活动" scheme="http://www.yorkcn.net/categories/%E6%B4%BB%E5%8A%A8/"/>
     
     
       <category term="活动" scheme="http://www.yorkcn.net/tags/%E6%B4%BB%E5%8A%A8/"/>
@@ -218,7 +218,7 @@
     <link href="http://www.yorkcn.net/york-hotels/"/>
     <id>http://www.yorkcn.net/york-hotels/</id>
     <published>2016-08-30T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:02:04.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/live/hotel.jpg" alt="约克大学及约克圣约翰大学周边酒店"></p>
 <p>【<a href="http://tidd.ly/b27e60e5" rel="external nofollow" target="_blank">距离约克大学比较近的酒店预订页面</a>】</p>
@@ -239,10 +239,12 @@
     
     </summary>
     
-      <category term="live" scheme="http://www.yorkcn.net/categories/live/"/>
+      <category term="旅游" scheme="http://www.yorkcn.net/categories/%E6%97%85%E6%B8%B8/"/>
     
     
       <category term="住宿" scheme="http://www.yorkcn.net/tags/%E4%BD%8F%E5%AE%BF/"/>
+    
+      <category term="约克酒店" scheme="http://www.yorkcn.net/tags/%E7%BA%A6%E5%85%8B%E9%85%92%E5%BA%97/"/>
     
   </entry>
   
@@ -251,7 +253,7 @@
     <link href="http://www.yorkcn.net/york-st-john-professor/"/>
     <id>http://www.yorkcn.net/york-st-john-professor/</id>
     <published>2016-08-08T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:03:20.000Z</updated>
     
     <content type="html"><![CDATA[<p>在本月举办的国际音乐教育协会(ISME)国际研讨会上，LEE Higgins 教授被任命为协会主席，任期两年。</p>
 <p>ISME是一个国际性组织，致力于建立和维护全球范围内的音乐教育家的社区。它的成员来自于80多个国家。</p>
@@ -268,7 +270,7 @@
     
     </summary>
     
-      <category term="study" scheme="http://www.yorkcn.net/categories/study/"/>
+      <category term="留学" scheme="http://www.yorkcn.net/categories/%E7%95%99%E5%AD%A6/"/>
     
     
       <category term="留学" scheme="http://www.yorkcn.net/tags/%E7%95%99%E5%AD%A6/"/>
@@ -280,7 +282,7 @@
     <link href="http://www.yorkcn.net/york-st-john-university-airport-transfer/"/>
     <id>http://www.yorkcn.net/york-st-john-university-airport-transfer/</id>
     <published>2016-07-26T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:10:14.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/study/transport.jpg" alt="约克圣约翰大学2016新生接机"></p>
 <p>接机地点：曼彻斯特国际机场</p>
@@ -308,7 +310,7 @@
     
     </summary>
     
-      <category term="study" scheme="http://www.yorkcn.net/categories/study/"/>
+      <category term="留学" scheme="http://www.yorkcn.net/categories/%E7%95%99%E5%AD%A6/"/>
     
     
       <category term="留学" scheme="http://www.yorkcn.net/tags/%E7%95%99%E5%AD%A6/"/>
@@ -320,7 +322,7 @@
     <link href="http://www.yorkcn.net/york-police-registration/"/>
     <id>http://www.yorkcn.net/york-police-registration/</id>
     <published>2016-07-18T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:09:44.000Z</updated>
     
     <content type="html"><![CDATA[<p>英国政府要求，不管是学生签证（年龄超过16岁的）还是工作签证，只要你在英国停留六个月以上，都会被要求在到达英国后7天内去当地警察局注册，这个要求是会在你的英国签证上标注的，一般而言在你的护照签证页上会写明Police Registration within 7 days of arrival（抵英后七日内去当地警察局注册）。因此不管你持有什么类型的签证，只要签证上有标注，都需要去警察局注册。如果不按时去注册的话，英国警察局有权拘留逾期者。轻者被口头提醒，重者则会被罚款。小伙伴们到达英国后先要安排好自己的住宿，然后要尽快去当地警察局注册。警察局注册时需要填写你的详细英国住址和联系方式。 </p>
 <p>约克警察局离约克大学很近，步行过去也就20分钟左右，中间要穿越一片大草坪，一般有很多学生在走。</p>
@@ -368,10 +370,12 @@
     
     </summary>
     
-      <category term="study" scheme="http://www.yorkcn.net/categories/study/"/>
+      <category term="留学" scheme="http://www.yorkcn.net/categories/%E7%95%99%E5%AD%A6/"/>
     
     
       <category term="留学" scheme="http://www.yorkcn.net/tags/%E7%95%99%E5%AD%A6/"/>
+    
+      <category term="警察局注册" scheme="http://www.yorkcn.net/tags/%E8%AD%A6%E5%AF%9F%E5%B1%80%E6%B3%A8%E5%86%8C/"/>
     
   </entry>
   
@@ -380,7 +384,7 @@
     <link href="http://www.yorkcn.net/statement-theresa-may/"/>
     <id>http://www.yorkcn.net/statement-theresa-may/</id>
     <published>2016-07-14T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:11:21.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/live/theresa-may-statement.jpg" alt="英国新首相就职演讲全文"></p>
 <p>I have just been to Buckingham Palace where Her Majesty the Queen has asked me to form a new government, and I accepted.</p>
@@ -424,7 +428,7 @@
     
     </summary>
     
-      <category term="live" scheme="http://www.yorkcn.net/categories/live/"/>
+      <category term="生活" scheme="http://www.yorkcn.net/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
       <category term="留学 生活" scheme="http://www.yorkcn.net/tags/%E7%95%99%E5%AD%A6-%E7%94%9F%E6%B4%BB/"/>
@@ -436,7 +440,7 @@
     <link href="http://www.yorkcn.net/york-designer-outlet/"/>
     <id>http://www.yorkcn.net/york-designer-outlet/</id>
     <published>2016-07-11T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:04:26.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/travel/designer-outlet.jpg" alt="约克名品奥特莱斯"></p>
 <p>几个世纪以来，约克一直被看作是英国首选的旅游目的地之一，历史、文化和时尚在此完美的结合。约克名品奥特莱斯也极为符合这种氛围，这一室内大型奥特莱斯入驻了120余家名品店铺，每个品牌都为顾客提供高达四折的优惠。其中，更是不乏各种中高端时尚名牌，比如Polo Ralph Lauren, Calvin Klein, Gieves &amp; Hawkes, Hugo Boss, Hobbs, LK Bennett, Tag Heuer 和 Ted Baker。</p>
@@ -450,10 +454,12 @@
     
     </summary>
     
-      <category term="travel" scheme="http://www.yorkcn.net/categories/travel/"/>
+      <category term="旅游" scheme="http://www.yorkcn.net/categories/%E6%97%85%E6%B8%B8/"/>
     
     
-      <category term="约克景点,购物" scheme="http://www.yorkcn.net/tags/%E7%BA%A6%E5%85%8B%E6%99%AF%E7%82%B9-%E8%B4%AD%E7%89%A9/"/>
+      <category term="购物" scheme="http://www.yorkcn.net/tags/%E8%B4%AD%E7%89%A9/"/>
+    
+      <category term="约克景点" scheme="http://www.yorkcn.net/tags/%E7%BA%A6%E5%85%8B%E6%99%AF%E7%82%B9/"/>
     
   </entry>
   
@@ -503,7 +509,7 @@
     <link href="http://www.yorkcn.net/yorkshire-lavender/"/>
     <id>http://www.yorkcn.net/yorkshire-lavender/</id>
     <published>2016-07-06T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:09:12.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/travel/yorkshire-lavender_1.jpg" alt="约克郡薰衣草园"></p>
 <p>Yorkshire Lavender薰衣草农场坐落于约二万四千平方米的，自然风景秀美的北约克郡Howardian Hills区域。 每年7，8月份，大片的薰衣草将山坡染成了花的海洋。 这里因为获得了无数的奖项而被称为约克郡最好的薰衣草农场。 园内种有近百种不同品种，紫色，粉色，白色等各种颜色的熏衣草，还引入法国羽叶熏衣草。因此这个薰衣草农场不像我们想象的法国南部那种一望无际的紫色海洋， 而是不同种类的薰衣草，二三十排，周边是其它刻意培植的各类花卉。 除此之外，这里还有独特的薰衣草迷宫，各类主题花园，已经各种牛，羊，和鹿等各种小动物。</p>
@@ -523,10 +529,12 @@
     
     </summary>
     
-      <category term="travel" scheme="http://www.yorkcn.net/categories/travel/"/>
+      <category term="旅游" scheme="http://www.yorkcn.net/categories/%E6%97%85%E6%B8%B8/"/>
     
     
       <category term="约克景点" scheme="http://www.yorkcn.net/tags/%E7%BA%A6%E5%85%8B%E6%99%AF%E7%82%B9/"/>
+    
+      <category term="薰衣草" scheme="http://www.yorkcn.net/tags/%E8%96%B0%E8%A1%A3%E8%8D%89/"/>
     
   </entry>
   
@@ -614,7 +622,7 @@
     <link href="http://www.yorkcn.net/york-jobs/"/>
     <id>http://www.yorkcn.net/york-jobs/</id>
     <published>2016-06-30T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:01:14.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/live/jobs.jpg" alt="约克各种招聘信息"></p>
 <p>这里给大家开个贴，约克各种招聘广告，欢迎在下面留言。。。</p>
@@ -626,10 +634,10 @@
     
     </summary>
     
-      <category term="live" scheme="http://www.yorkcn.net/categories/live/"/>
+      <category term="生活" scheme="http://www.yorkcn.net/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-      <category term="工作信息" scheme="http://www.yorkcn.net/tags/%E5%B7%A5%E4%BD%9C%E4%BF%A1%E6%81%AF/"/>
+      <category term="招聘" scheme="http://www.yorkcn.net/tags/%E6%8B%9B%E8%81%98/"/>
     
   </entry>
   
@@ -638,7 +646,7 @@
     <link href="http://www.yorkcn.net/york-ads/"/>
     <id>http://www.yorkcn.net/york-ads/</id>
     <published>2016-06-30T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:06:36.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/live/ads.jpg" alt="约克各种商业广告"></p>
 <p>这里给大家开个贴，约克各种商业广告，欢迎在下面留言。。。</p>
@@ -650,7 +658,7 @@
     
     </summary>
     
-      <category term="live" scheme="http://www.yorkcn.net/categories/live/"/>
+      <category term="生活" scheme="http://www.yorkcn.net/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
       <category term="广告" scheme="http://www.yorkcn.net/tags/%E5%B9%BF%E5%91%8A/"/>
@@ -662,7 +670,7 @@
     <link href="http://www.yorkcn.net/york-events/"/>
     <id>http://www.yorkcn.net/york-events/</id>
     <published>2016-06-30T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:03:46.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/live/party.jpg" alt="约克活动"></p>
 <p>这里给大家开个贴，各种活动信息喔，欢迎在下面留言。。。</p>
@@ -674,7 +682,7 @@
     
     </summary>
     
-      <category term="live" scheme="http://www.yorkcn.net/categories/live/"/>
+      <category term="活动" scheme="http://www.yorkcn.net/categories/%E6%B4%BB%E5%8A%A8/"/>
     
     
       <category term="活动" scheme="http://www.yorkcn.net/tags/%E6%B4%BB%E5%8A%A8/"/>
@@ -686,7 +694,7 @@
     <link href="http://www.yorkcn.net/york-accommodation/"/>
     <id>http://www.yorkcn.net/york-accommodation/</id>
     <published>2016-06-29T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:07:10.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/live/accommodation.jpg" alt="约克住宿"><br></p>
 <p>这里给大家开个贴，约克各种房屋租赁信息，各种房源，有找房的/找室友的同学请在下面留言。。。</p>
@@ -700,8 +708,10 @@
     
     </summary>
     
-      <category term="live" scheme="http://www.yorkcn.net/categories/live/"/>
+      <category term="生活" scheme="http://www.yorkcn.net/categories/%E7%94%9F%E6%B4%BB/"/>
     
+    
+      <category term="留学" scheme="http://www.yorkcn.net/tags/%E7%95%99%E5%AD%A6/"/>
     
       <category term="租房" scheme="http://www.yorkcn.net/tags/%E7%A7%9F%E6%88%BF/"/>
     
@@ -712,7 +722,7 @@
     <link href="http://www.yorkcn.net/second-hand-market/"/>
     <id>http://www.yorkcn.net/second-hand-market/</id>
     <published>2016-06-25T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:07:52.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/live/second-hand-market.png" alt="约克二手市场"></p>
 <p>这里给大家开个贴，有需要的同学请在下面留言。。。</p>
@@ -724,10 +734,12 @@
     
     </summary>
     
-      <category term="live" scheme="http://www.yorkcn.net/categories/live/"/>
+      <category term="生活" scheme="http://www.yorkcn.net/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
       <category term="省钱" scheme="http://www.yorkcn.net/tags/%E7%9C%81%E9%92%B1/"/>
+    
+      <category term="二手市场" scheme="http://www.yorkcn.net/tags/%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA/"/>
     
   </entry>
   
@@ -736,7 +748,7 @@
     <link href="http://www.yorkcn.net/new-student-guide-york/"/>
     <id>http://www.yorkcn.net/new-student-guide-york/</id>
     <published>2016-06-22T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:08:27.000Z</updated>
     
     <content type="html"><![CDATA[<p>这篇文章小编给大家介绍一下<strong>约克</strong>新生的注意事项，算是一个<strong>约克新生指南</strong>或者<strong>约克新生攻略</strong>吧，希望对新来的留学生有所帮助。</p>
 <p><img src="/images/study/study-in-uk.jpg" alt="约克新生手册"></p>
@@ -865,10 +877,12 @@
     
     </summary>
     
-      <category term="study" scheme="http://www.yorkcn.net/categories/study/"/>
+      <category term="留学" scheme="http://www.yorkcn.net/categories/%E7%95%99%E5%AD%A6/"/>
     
     
       <category term="留学" scheme="http://www.yorkcn.net/tags/%E7%95%99%E5%AD%A6/"/>
+    
+      <category term="约克新生" scheme="http://www.yorkcn.net/tags/%E7%BA%A6%E5%85%8B%E6%96%B0%E7%94%9F/"/>
     
   </entry>
   
@@ -877,7 +891,7 @@
     <link href="http://www.yorkcn.net/york-tourist-guide/"/>
     <id>http://www.yorkcn.net/york-tourist-guide/</id>
     <published>2016-06-18T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:02:35.000Z</updated>
     
     <content type="html"><![CDATA[<p>约克位于英国东北部，是北约克郡首府。约克由罗马人兴建于公元71年，罗马人撤走后，又被盎格鲁人、丹麦人和诺曼人占领。中世纪时约克是繁荣的羊毛市场和教育中心，其大主教地位仅次于坎特伯雷大主教。市区人口约为20万人（2016年）。很多人说，约克是最能体现英国历史文化的城市，每条街道都有故事，每座建筑都是遗迹。城市规模小而精，欧洲中世纪风格的街道贯穿全城，各种特色商铺林立，仿佛就是置身于童话故事中的城堡和小镇中。而“约克”这个名字，也正是从维京语“Jorvik”转变而来。约克，是来英国必去的旅游目的地之一。人们喜欢约克，可以喜欢他朴素静谧的街道，可以喜欢他历史久远的建筑，也可以喜欢他风情浓郁的英式茶点。但是风光秀丽，古朴清灵只是约克一半的映像，如果把英国著名的旅游城市都比作明星的话，那么约克一定是最具话题度的。因为在英国著名的猛鬼地图上，约克可是闹鬼的重灾区。就连当地人都顺水推舟设计了许多“ghost tour”带你去探索那些有些特别故事发生过的老建筑。<br><img src="/images/travel/york-travel.jpg" alt="约克旅游攻略"></p>
 <p>下面给大家介绍一些约克最值得看的景点：</p>
@@ -958,7 +972,7 @@
     
     </summary>
     
-      <category term="travel" scheme="http://www.yorkcn.net/categories/travel/"/>
+      <category term="旅游" scheme="http://www.yorkcn.net/categories/%E6%97%85%E6%B8%B8/"/>
     
     
       <category term="约克景点" scheme="http://www.yorkcn.net/tags/%E7%BA%A6%E5%85%8B%E6%99%AF%E7%82%B9/"/>
@@ -970,7 +984,7 @@
     <link href="http://www.yorkcn.net/one-belt-one-road/"/>
     <id>http://www.yorkcn.net/one-belt-one-road/</id>
     <published>2016-06-15T11:33:28.000Z</published>
-    <updated>2016-11-16T10:07:03.000Z</updated>
+    <updated>2016-11-16T16:06:07.000Z</updated>
     
     <content type="html"><![CDATA[<p><img src="/images/activities/one-belt-one-road.jpg" alt="enter image description here"></p>
 <p>“One Belt, One Road” UK China Innovative and Cooperation Forum</p>
@@ -990,7 +1004,7 @@
     
     </summary>
     
-      <category term="activities" scheme="http://www.yorkcn.net/categories/activities/"/>
+      <category term="活动" scheme="http://www.yorkcn.net/categories/%E6%B4%BB%E5%8A%A8/"/>
     
     
       <category term="活动" scheme="http://www.yorkcn.net/tags/%E6%B4%BB%E5%8A%A8/"/>
