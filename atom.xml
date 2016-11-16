@@ -458,9 +458,9 @@
       <category term="旅游" scheme="http://www.yorkcn.net/categories/%E6%97%85%E6%B8%B8/"/>
     
     
-      <category term="购物" scheme="http://www.yorkcn.net/tags/%E8%B4%AD%E7%89%A9/"/>
-    
       <category term="约克景点" scheme="http://www.yorkcn.net/tags/%E7%BA%A6%E5%85%8B%E6%99%AF%E7%82%B9/"/>
+    
+      <category term="购物" scheme="http://www.yorkcn.net/tags/%E8%B4%AD%E7%89%A9/"/>
     
   </entry>
   
@@ -643,30 +643,6 @@
   </entry>
   
   <entry>
-    <title>约克各种商业广告</title>
-    <link href="http://www.yorkcn.net/york-ads/"/>
-    <id>http://www.yorkcn.net/york-ads/</id>
-    <published>2016-06-30T11:33:28.000Z</published>
-    <updated>2016-11-16T16:06:36.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/live/ads.jpg" alt="约克各种商业广告"></p>
-<p>这里给大家开个贴，约克各种商业广告，欢迎在下面留言。。。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      约克各种商业广告
-    
-    </summary>
-    
-      <category term="生活" scheme="http://www.yorkcn.net/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="广告" scheme="http://www.yorkcn.net/tags/%E5%B9%BF%E5%91%8A/"/>
-    
-  </entry>
-  
-  <entry>
     <title>约克各种活动</title>
     <link href="http://www.yorkcn.net/york-events/"/>
     <id>http://www.yorkcn.net/york-events/</id>
@@ -687,6 +663,30 @@
     
     
       <category term="活动" scheme="http://www.yorkcn.net/tags/%E6%B4%BB%E5%8A%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>约克各种商业广告</title>
+    <link href="http://www.yorkcn.net/york-ads/"/>
+    <id>http://www.yorkcn.net/york-ads/</id>
+    <published>2016-06-30T11:33:28.000Z</published>
+    <updated>2016-11-16T16:06:36.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/live/ads.jpg" alt="约克各种商业广告"></p>
+<p>这里给大家开个贴，约克各种商业广告，欢迎在下面留言。。。</p>
+]]></content>
+    
+    <summary type="html">
+    
+      约克各种商业广告
+    
+    </summary>
+    
+      <category term="生活" scheme="http://www.yorkcn.net/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="广告" scheme="http://www.yorkcn.net/tags/%E5%B9%BF%E5%91%8A/"/>
     
   </entry>
   
