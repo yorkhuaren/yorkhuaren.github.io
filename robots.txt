@@ -1,4 +1,7 @@
 User-agent: *
-Disallow: /
+Disallow: /cambridge-satchel/
+Disallow: /fatburn/
+Disallow: /uk-gift/
+Disallow: /lookfantastic-products/
 
 Sitemap: http://www.yorkcn.net/sitemap.xml
