@@ -3,6 +3,6 @@ Disallow: /cambridge-satchel/
 Disallow: /fatburn/
 Disallow: /uk-gift/
 Disallow: /lookfantastic-products/
-
+Disallow: /jay-chou-london-2017/
 
 Sitemap: http://www.yorkcn.net/sitemap.xml
