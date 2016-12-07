@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.yorkcn.net/"/>
-  <updated>2016-12-05T10:04:05.000Z</updated>
+  <updated>2016-12-07T09:28:47.000Z</updated>
   <id>http://www.yorkcn.net/</id>
   
   <author>
@@ -14,6 +14,48 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>约克大学Graduate Scheme主题讲座</title>
+    <link href="http://www.yorkcn.net/graduate-opportunities-for-overseas-students-in-the-uk/"/>
+    <id>http://www.yorkcn.net/graduate-opportunities-for-overseas-students-in-the-uk/</id>
+    <published>2016-12-06T11:33:28.000Z</published>
+    <updated>2016-12-07T09:28:47.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="/images/activities/graduates.jpg" alt="Graduate opportunities for overseas students in the UK"></p>
+<p>想找工作/summer intern的小伙伴注意了，这里有一个适合你的讲座！</p>
+<p>主题：Graduate opportunities for overseas students in the UK</p>
+<p>时间：17.00-19.00, 2016.12.14 (Wednesday)</p>
+<p>地址：Derwent College, D/L/116 Seminar Room, University of York</p>
+<p>内容：Describes the opportunities available to Chinese students and the hurdles they will need to overcome to land that dream job in the UK. </p>
+<ul>
+<li>What are employers looking for?</li>
+<li>The recruitment process explained</li>
+<li>Dealing with different types of questions</li>
+<li>The importance of commercial awareness</li>
+<li>Tier 4 &amp; Tier 2 visa policy explained</li>
+</ul>
+<p>主讲人：Chris Rawlins</p>
+<p>Chris早年担任证券经纪人，在伦敦证券交易所任职数年。随后为多家公司的职员提供领导力培训，其中不乏诸如BT,Tesco, Barclays, Rolls-Royce等大公司。身为OSAS的Managing Director, Chris也是一名资深的职业培训讲师，与此同时还拥有自己的猎头咨询公司。每年都有众多留学生通过他的帮助和辅导成功申请GraduateScheme &amp; Internship，收获各大名企offer。<br>区别于传统的讲座，这次讲座采取座谈的形式，大家畅所欲言，既可以向大家吐槽你在求职中遇到的棘手问题，也可以聆听我们的主讲人分享他的人生经历，还有中国Phd学姐来帮助大家答疑解惑，现场甚至会为有需要的同学安排免费的职业咨询。</p>
+<p>报名方式：发送短信至07746367750</p>
+]]></content>
+    
+    <summary type="html">
+    
+      约克大学Graduate Scheme主题讲座
+    
+    </summary>
+    
+      <category term="活动" scheme="http://www.yorkcn.net/categories/%E6%B4%BB%E5%8A%A8/"/>
+    
+    
+      <category term="招聘" scheme="http://www.yorkcn.net/tags/%E6%8B%9B%E8%81%98/"/>
+    
+      <category term="讲座" scheme="http://www.yorkcn.net/tags/%E8%AE%B2%E5%BA%A7/"/>
+    
+      <category term="summer intern" scheme="http://www.yorkcn.net/tags/summer-intern/"/>
+    
+  </entry>
   
   <entry>
     <title>约克中国超市</title>
@@ -889,30 +931,6 @@
     
     
       <category term="广告" scheme="http://www.yorkcn.net/tags/%E5%B9%BF%E5%91%8A/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>约克各种招聘信息</title>
-    <link href="http://www.yorkcn.net/york-jobs/"/>
-    <id>http://www.yorkcn.net/york-jobs/</id>
-    <published>2016-06-30T11:33:28.000Z</published>
-    <updated>2016-11-30T10:14:09.000Z</updated>
-    
-    <content type="html"><![CDATA[<p><img src="/images/live/jobs.jpg" alt="约克各种招聘信息"></p>
-<p>这里给大家开个贴，约克各种招聘广告，欢迎在下面留言。。。</p>
-]]></content>
-    
-    <summary type="html">
-    
-      约克各种招聘信息
-    
-    </summary>
-    
-      <category term="生活" scheme="http://www.yorkcn.net/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="招聘" scheme="http://www.yorkcn.net/tags/%E6%8B%9B%E8%81%98/"/>
     
   </entry>
   
