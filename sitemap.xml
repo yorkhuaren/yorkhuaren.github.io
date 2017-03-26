@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.yorkcn.net/the-grand-hotel-spa/</loc>
+    
+    <lastmod>2017-03-26T21:50:42.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.yorkcn.net/york-museums/</loc>
     
     <lastmod>2017-03-16T14:41:41.000Z</lastmod>
@@ -26,13 +33,6 @@
     <loc>http://www.yorkcn.net/404.html</loc>
     
     <lastmod>2017-03-15T14:08:21.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yorkcn.net/fatburn/</loc>
-    
-    <lastmod>2017-03-15T12:48:00.000Z</lastmod>
     
   </url>
   
@@ -156,6 +156,13 @@
   </url>
   
   <url>
+    <loc>http://www.yorkcn.net/castle-howard/</loc>
+    
+    <lastmod>2017-03-15T12:48:00.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.yorkcn.net/top-10-singers/</loc>
     
     <lastmod>2017-03-15T12:48:00.000Z</lastmod>
@@ -191,14 +198,14 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/vita-student-york-village/</loc>
+    <loc>http://www.yorkcn.net/britain-got-talent-come-to-york/</loc>
     
     <lastmod>2017-03-15T12:48:00.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/britain-got-talent-come-to-york/</loc>
+    <loc>http://www.yorkcn.net/whittard/</loc>
     
     <lastmod>2017-03-15T12:48:00.000Z</lastmod>
     
@@ -282,7 +289,7 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/castle-howard/</loc>
+    <loc>http://www.yorkcn.net/fatburn/</loc>
     
     <lastmod>2017-03-15T12:48:00.000Z</lastmod>
     
@@ -387,7 +394,7 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/whittard/</loc>
+    <loc>http://www.yorkcn.net/vita-student-york-village/</loc>
     
     <lastmod>2017-03-15T12:48:00.000Z</lastmod>
     
