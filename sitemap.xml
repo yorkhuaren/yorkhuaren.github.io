@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.yorkcn.net/york-pass/</loc>
+    
+    <lastmod>2017-06-12T12:45:05.420Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.yorkcn.net/york-pride/</loc>
     
     <lastmod>2017-06-11T21:14:54.905Z</lastmod>
@@ -16,14 +23,7 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-st-john-university-airport-transfer/</loc>
-    
-    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yorkcn.net/york-student-yellow-page/</loc>
+    <loc>http://www.yorkcn.net/york-uni-enrollment/</loc>
     
     <lastmod>2017-06-08T14:44:51.242Z</lastmod>
     
@@ -51,7 +51,7 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-uni-enrollment/</loc>
+    <loc>http://www.yorkcn.net/york-student-yellow-page/</loc>
     
     <lastmod>2017-06-08T14:44:51.242Z</lastmod>
     
@@ -79,16 +79,16 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-uni-building-codes/</loc>
+    <loc>http://www.yorkcn.net/york-st-john-university-airport-transfer/</loc>
     
     <lastmod>2017-06-08T14:44:51.242Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/roses-2017/</loc>
+    <loc>http://www.yorkcn.net/york-uni-building-codes/</loc>
     
-    <lastmod>2017-06-08T14:44:51.238Z</lastmod>
+    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
     
   </url>
   
@@ -184,14 +184,14 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/holland-barrett/</loc>
+    <loc>http://www.yorkcn.net/york-beauty-class-2016/</loc>
     
     <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-best-restaurants/</loc>
+    <loc>http://www.yorkcn.net/holland-barrett/</loc>
     
     <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
@@ -366,16 +366,16 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-beauty-class-2016/</loc>
+    <loc>http://www.yorkcn.net/roses-2017/</loc>
     
     <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/from-shore-to-shore/</loc>
+    <loc>http://www.yorkcn.net/york-best-restaurants/</loc>
     
-    <lastmod>2017-06-08T14:44:51.234Z</lastmod>
+    <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
   </url>
   
@@ -451,6 +451,13 @@
   
   <url>
     <loc>http://www.yorkcn.net/fatburn/</loc>
+    
+    <lastmod>2017-06-08T14:44:51.234Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yorkcn.net/from-shore-to-shore/</loc>
     
     <lastmod>2017-06-08T14:44:51.234Z</lastmod>
     
