@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.yorkcn.net/york-fossgate-festival/</loc>
+    
+    <lastmod>2017-08-04T08:42:44.812Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.yorkcn.net/york-student-yellow-page/</loc>
     
     <lastmod>2017-08-01T13:29:34.914Z</lastmod>
@@ -58,21 +65,14 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-st-john-professor/</loc>
-    
-    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://www.yorkcn.net/york-st-john-university-airport-transfer/</loc>
-    
-    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.yorkcn.net/yorkshire-lavender/</loc>
+    
+    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yorkcn.net/york-st-john-professor/</loc>
     
     <lastmod>2017-06-08T14:44:51.242Z</lastmod>
     
@@ -121,9 +121,9 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/statement-theresa-may/</loc>
+    <loc>http://www.yorkcn.net/york-st-john-university-airport-transfer/</loc>
     
-    <lastmod>2017-06-08T14:44:51.238Z</lastmod>
+    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
     
   </url>
   
@@ -198,14 +198,14 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/holland-barrett/</loc>
+    <loc>http://www.yorkcn.net/york-beauty-class-2016/</loc>
     
     <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-best-restaurants/</loc>
+    <loc>http://www.yorkcn.net/holland-barrett/</loc>
     
     <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
@@ -394,16 +394,16 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-beauty-class-2016/</loc>
+    <loc>http://www.yorkcn.net/statement-theresa-may/</loc>
     
     <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/hitalk-alphago/</loc>
+    <loc>http://www.yorkcn.net/york-best-restaurants/</loc>
     
-    <lastmod>2017-06-08T14:44:51.234Z</lastmod>
+    <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
   </url>
   
@@ -479,6 +479,13 @@
   
   <url>
     <loc>http://www.yorkcn.net/hitalk-air-purification/</loc>
+    
+    <lastmod>2017-06-08T14:44:51.234Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yorkcn.net/hitalk-alphago/</loc>
     
     <lastmod>2017-06-08T14:44:51.234Z</lastmod>
     
