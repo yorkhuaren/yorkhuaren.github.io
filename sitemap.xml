@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.yorkcn.net/lockin-china/</loc>
+    
+    <lastmod>2018-10-16T09:36:01.299Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://www.yorkcn.net/how-to-rent-a-private-property-in-york/</loc>
     
     <lastmod>2018-07-03T13:28:45.939Z</lastmod>
@@ -86,13 +93,6 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-st-john-university-airport-transfer/</loc>
-    
-    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.yorkcn.net/york-uni-building-codes/</loc>
     
     <lastmod>2017-06-08T14:44:51.242Z</lastmod>
@@ -100,7 +100,7 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-st-john-professor/</loc>
+    <loc>http://www.yorkcn.net/york-uni-enrollment/</loc>
     
     <lastmod>2017-06-08T14:44:51.242Z</lastmod>
     
@@ -128,13 +128,6 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-tourist-guide/</loc>
-    
-    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://www.yorkcn.net/york-taxis/</loc>
     
     <lastmod>2017-06-08T14:44:51.242Z</lastmod>
@@ -142,16 +135,23 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-uni-enrollment/</loc>
+    <loc>http://www.yorkcn.net/york-st-john-professor/</loc>
     
     <lastmod>2017-06-08T14:44:51.242Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/uk-gift/</loc>
+    <loc>http://www.yorkcn.net/york-st-john-university-airport-transfer/</loc>
     
-    <lastmod>2017-06-08T14:44:51.238Z</lastmod>
+    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yorkcn.net/york-tourist-guide/</loc>
+    
+    <lastmod>2017-06-08T14:44:51.242Z</lastmod>
     
   </url>
   
@@ -212,14 +212,14 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/holland-barrett/</loc>
+    <loc>http://www.yorkcn.net/york-chinese-new-year-gala-2017/</loc>
     
     <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-chinese-supermarket/</loc>
+    <loc>http://www.yorkcn.net/holland-barrett/</loc>
     
     <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
@@ -422,16 +422,16 @@
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/york-chinese-new-year-gala-2017/</loc>
+    <loc>http://www.yorkcn.net/uk-gift/</loc>
     
     <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://www.yorkcn.net/britain-got-talent-come-to-york/</loc>
+    <loc>http://www.yorkcn.net/york-chinese-supermarket/</loc>
     
-    <lastmod>2017-06-08T14:44:51.234Z</lastmod>
+    <lastmod>2017-06-08T14:44:51.238Z</lastmod>
     
   </url>
   
@@ -507,6 +507,13 @@
   
   <url>
     <loc>http://www.yorkcn.net/castle-howard/</loc>
+    
+    <lastmod>2017-06-08T14:44:51.234Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://www.yorkcn.net/britain-got-talent-come-to-york/</loc>
     
     <lastmod>2017-06-08T14:44:51.234Z</lastmod>
     
